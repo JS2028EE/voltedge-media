@@ -1,0 +1,9 @@
+{
+  "name": "VoltEdge Media",
+  "short_name": "VoltEdge",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#0b1220",
+  "description": "VoltEdge Media helps small businesses build websites and upgrade their business online with practical AI and strategy."
+}
